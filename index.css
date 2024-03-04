@@ -1,0 +1,57 @@
+div {
+  display: flex;
+  justify-content: space-around;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: 5px solid #f1f1f1;
+  text-align: center;
+  background-color: aqua;
+}
+h1 {
+  color: rgb(13, 104, 231);
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 0px;
+  border-radius: 5px;
+}
+form {
+  padding: 30px;
+}
+label {
+  color: rgb(16, 15, 15);
+  font: bold;
+  font-size: larger;
+}
+#btn {
+  background-color: rgb(53, 113, 53);
+  color: rgb(0, 0, 0);
+  font-size: large;
+  width: 100%;
+  border-radius: 5px;
+}
+table th {
+  color: rgb(19, 17, 17);
+}
+
+tr {
+  height: 5px;
+}
+
+body {
+  background-color: antiquewhite;
+
+}
